@@ -1,0 +1,42 @@
+---
+title: "Niveles de los cursos y el público"
+author: "@m4gs"
+date: "13 de junio de 2017"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Niveles del público (target)
+
+* Público **Básico**: Pequeñas empresas o instituciones. Ámbito administrativo. Formación en la cultura de datos para lograr procesos eficientes.
+
+* Público **Intermedio**: Profesionales que deseen extender sus conocimientos en el manejo y análisis de datos, para mejorar el rendimiento en sus carreras o puestos de trabajo. 
+
+* Público **Avanzado**: Profesionales con conocimiento base en análisis estadísticos, manejo de datos y programación, que deseen profundizar a otro nivel. Grandes empresas que requieran formación de sus empleados en nuevas tecnologías, orientadas como *data driving organizations*.
+
+## Niveles para los cursos (Ciencia de Datos)
+
+* **Básico**:
+    + Software carpentry.
+    + Data carpentry.
+    + Introducción a R para la ciencia de datos.
+
+* **Intermedio**: 
+    + Introducción a Pyhton para la ciencia de datos.
+    + Python para la ciencia de datos: Manipulación de datos y visualización.
+    + R para la ciencia de datos: Análisis de Datos y Visualización.
+  
+* **Avanzado**: 
+    + Python para la ciencia de datos: Manipulación de datos y visualización.
+    + Pyhton para la ciencia de datos: Machine learning.
+    + R para la ciencia de datos: Machine Learning.
+    + Big Data con Hadoop y Spark.
+
+## Cursos Blockchain (Por definir)
+
+*
+*
+*
