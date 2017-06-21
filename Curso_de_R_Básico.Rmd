@@ -1,0 +1,77 @@
+---
+title: "Propuesta de cursos en ALMUS"
+author: "@albertoflorez21"
+date: "20 de junio de 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Curso de R: Nivel Básico
+
+
+* **Prerequisitos:** Ninguno
+
+* **Objetivos de aprendizaje**
+
+En este curso usted podra aprender y desarrollar habilidades en:
+
+       + Conceptos basicos de R.
+       + Escribir scripts de R.
+       + Como usar R en la solución de problemas relacionados con datos.
+       + Los fundamentos de la sintaxis de R.
+       + Unidades atomicas de R: vectores,listas,matrices, arrays y dataframes.
+       + Leer y escribir datos en R.
+
+### Modulo 0: Historia de R
+
+* Qué es R?
+* Reseña historica
+* Instalación
+* Rstudio
+
+### Modulo 1: Conceptos básicos
+
+* Variables cuantitativas y cualitativas
+* Vectores y factores
+* Operaciones con vectores
+
+### Modulo 2: Estructura de datos en R
+
+* Arreglos
+* Matrices
+* Listas
+* Dataframes
+
+### Modulo 3: Fundamentos de R programming
+
+* Condicionantes y bucles
+* Funciones en R
+* Objetos y clases
+* Depuración
+
+### Modulo 4: Trabjando con datos en R.
+
+* Lectura de archivos CSV y Excel
+* Lectura de archivo texto
+* Escribiendo y guardando datos en arvhivos de R.
+
+### Modulo 5: Cadenas y fechas en R.
+
+* Operaciones con cadenas en R
+* Expresiones regulares.
+* Fechas en R.
+
+##  Referencia bibliografica
+
+[El arte de programar en R](https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf)
+
+[R for Data Science](http://r4ds.had.co.nz/wrangle-intro.html)
+
+[Efficient R programming](https://bookdown.org/csgillespie/efficientR/)
+
+[R for Data Science: Exercise Solutions](https://jrnold.github.io/e4qf/)
+
+[R programming for Data Science](https://leanpub.com/rprogramming)
